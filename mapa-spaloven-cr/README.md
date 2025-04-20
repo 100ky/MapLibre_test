@@ -1,3 +1,9 @@
+# Použití MapLibre
+
+Tato aplikace využívá knihovnu [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) pro zobrazení interaktivní mapy.
+
+MapLibre GL JS je open-source knihovna pod licencí BSD-2-Clause. Více informací a zdrojový kód najdete na [https://github.com/maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js).
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
